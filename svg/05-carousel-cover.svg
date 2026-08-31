@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-label="Evidence first carousel cover">
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFCF7"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#102A43" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#wash)"/>
+  
+      <rect x="0" y="0" width="1080" height="1080" fill="#102A43"/>
+      <circle cx="930" cy="160" r="250" fill="#2F6BFF"/><circle cx="120" cy="990" r="300" fill="#FF6B35" opacity=".9"/>
+      <rect x="74" y="70" width="254" height="54" rx="27" fill="#FFFFFF"/><text x="201" y="106" font-family="Trebuchet MS, sans-serif" font-size="22" font-weight="700" fill="#102A43" text-anchor="middle" letter-spacing="1">5-SLIDE SERIES</text>
+      <text x="74" y="320" font-family="Georgia, serif" font-size="75" font-weight="700" fill="#FFFFFF" text-anchor="start">How to turn</text><text x="74" y="410" font-family="Georgia, serif" font-size="84" font-weight="700" fill="#FFFFFF" text-anchor="start">parts research</text><text x="74" y="500" font-family="Georgia, serif" font-size="84" font-weight="700" fill="#C6F6D5" text-anchor="start">into a decision</text>
+      <text x="78" y="600" font-family="Trebuchet MS, sans-serif" font-size="30" font-weight="400" fill="#D9E2EC" text-anchor="start" letter-spacing="0">A practical evidence-first framework</text>
+      <rect x="74" y="738" width="700" height="170" rx="28" fill="#FFFFFF" opacity=".96"/>
+      <text x="114" y="800" font-family="Trebuchet MS, sans-serif" font-size="24" font-weight="800" fill="#FF6B35" text-anchor="start" letter-spacing="1">SWIPE FOR THE SOURCE LADDER</text>
+      <text x="114" y="862" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#102A43" text-anchor="start">A → B → C → D</text>
+      <text x="926" y="995" font-family="Trebuchet MS, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="0">01 / 05</text>
+    
+</svg>
