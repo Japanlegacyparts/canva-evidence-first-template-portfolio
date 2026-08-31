@@ -1,0 +1,73 @@
+{
+  "product": "Evidence-First Parts Research Template Portfolio",
+  "channel": "Canva Creator",
+  "version": "1.0.0",
+  "authored_assets": [
+    {
+      "name": "01-square-decision-card",
+      "width": 1080,
+      "height": 1080,
+      "title": "Evidence-first decision card",
+      "svg": "svg/01-square-decision-card.svg",
+      "png": "png/01-square-decision-card.png"
+    },
+    {
+      "name": "02-story-verification-checklist",
+      "width": 1080,
+      "height": 1920,
+      "title": "Vehicle parts verification checklist story",
+      "svg": "svg/02-story-verification-checklist.svg",
+      "png": "png/02-story-verification-checklist.png"
+    },
+    {
+      "name": "03-presentation-source-matrix",
+      "width": 1920,
+      "height": 1080,
+      "title": "Source authority matrix presentation slide",
+      "svg": "svg/03-presentation-source-matrix.svg",
+      "png": "png/03-presentation-source-matrix.png"
+    },
+    {
+      "name": "04-a4-evidence-worksheet",
+      "width": 2480,
+      "height": 3508,
+      "title": "Evidence decision worksheet A4",
+      "svg": "svg/04-a4-evidence-worksheet.svg",
+      "png": "png/04-a4-evidence-worksheet.png"
+    },
+    {
+      "name": "05-carousel-cover",
+      "width": 1080,
+      "height": 1080,
+      "title": "Evidence first carousel cover",
+      "svg": "svg/05-carousel-cover.svg",
+      "png": "png/05-carousel-cover.png"
+    },
+    {
+      "name": "06-carousel-decision",
+      "width": 1080,
+      "height": 1080,
+      "title": "Evidence first carousel decision slide",
+      "svg": "svg/06-carousel-decision.svg",
+      "png": "png/06-carousel-decision.png"
+    }
+  ],
+  "external_assets": [],
+  "fonts": [
+    "Georgia",
+    "Trebuchet MS"
+  ],
+  "palette": {
+    "navy": "#102A43",
+    "blue": "#2F6BFF",
+    "orange": "#FF6B35",
+    "cream": "#FFF7ED",
+    "paper": "#FFFCF7",
+    "ink": "#172B4D",
+    "muted": "#627D98",
+    "mint": "#C6F6D5",
+    "line": "#D9E2EC"
+  },
+  "submission_note": "Portfolio and import-ready vector originals. Creator acceptance, in-Canva reconstruction/readback, originality confirmation, and final submission remain separate gates.",
+  "ai_policy_note": "No generated photography, illustration model output, or third-party stock is used. Owner must review/edit and confirm the final Canva submission is wholly owned and compliant with the current Creator guidelines."
+}
